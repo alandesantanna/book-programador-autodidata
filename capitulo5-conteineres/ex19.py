@@ -1,5 +1,2 @@
-x = str(input("Digite uma palavra: "))
-y = str(input("Digite outra palavra: "))
-
-nova_string = "Ontem escrevi um {} e mandei para {}.".format(x, y)
-print(nova_string)
+x = "aldous huxley was born in 1894. he was born in the United Kingdom.".title()
+print(x)

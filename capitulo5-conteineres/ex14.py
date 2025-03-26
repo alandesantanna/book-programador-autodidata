@@ -1,3 +1,2 @@
-
-coordenadas_rio_de_janeiro = (-43.2096, -22.9035)
-print(coordenadas_rio_de_janeiro)
+infos = {"nome": "lucas", "idade": 17, "cidade": "são paulo"}
+print(infos["nome"], infos["idade"], infos["cidade"])

@@ -1,6 +1,5 @@
-x = "Camus"
-print(x[0])
-print(x[1]) 
-print(x[2])
-print(x[3])
-print(x[4])
+x = str(input("Digite uma palavra: "))
+y = str(input("Digite outra palavra: "))
+
+nova_string = "Ontem escrevi um {} e mandei para {}.".format(x, y)
+print(nova_string)

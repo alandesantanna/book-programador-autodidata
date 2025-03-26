@@ -1,2 +1,2 @@
-x = "aldous huxley was born in 1894. he was born in the United Kingdom.".title()
-print(x)
+lst = "Where now? Who now? When now?".split("?")
+print(lst)
